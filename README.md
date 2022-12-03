@@ -1,6 +1,6 @@
 # Personal Website
 
-## abstract
+## Abstract
 Personal Website written from scratch using HTML, CSS and Javascript
 
 ## Hosting
